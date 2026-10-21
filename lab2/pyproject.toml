@@ -1,0 +1,11 @@
+[project]
+name = "tpr-lab2"
+version = "0.1.0"
+description = "Decision making under uncertainty for TPR Lab 2"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.4",
+    "pandas>=3.0.6",
+]
