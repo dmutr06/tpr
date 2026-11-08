@@ -1,0 +1,11 @@
+[project]
+name = "tpr-lab4"
+version = "0.1.0"
+description = "Voting methods for TPR Lab 4"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.4",
+    "pandas>=3.0.6",
+]
